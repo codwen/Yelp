@@ -20,6 +20,7 @@ Business.searchWithTerm("Thai", completion: { (businesses: [Business]!, error: E
     }
 })
 ```
+![yelp](https://user-images.githubusercontent.com/40280397/46381607-fa247780-c674-11e8-83b4-902fe2cbba41.gif)
 
 **Advanced search with categories, sort, and deal filters**
 
